@@ -1,0 +1,114 @@
+body {
+    color: #40514e;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+    
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62em;
+    margin: 100px auto 0;
+}
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;  
+}
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #11999E;
+    text-decoration: none;
+}
+a:hover {
+    color: #EAF6F6;
+}
+hr {
+    border-style: none;
+    color: #EAF6F6;
+    border-top: dotted;
+    width: 4%;
+    border-width: 6px;
+    margin: 100px auto;
+}
+p {
+    line-height: 2;
+}
+.top-container {
+    background-color: #e4f9f5; 
+    padding-top: 100px;
+    position: relative;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+.middle-container {
+    margin: 100px 0;
+}
+.spt-profile{
+    width: 200px;
+    height: 200px;
+}
+.profile-desc {
+    width: 30%;
+    margin: auto;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.computer_skill {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: white;
+    background-color: #11cdd4;
+    border-style: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+.btn:hover {
+    background-color: #30e3cb; 
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 25px;
+}
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.footer-link {
+    margin: 0 15px;
+}
